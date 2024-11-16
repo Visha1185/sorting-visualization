@@ -1,5 +1,3 @@
-Here’s an enhanced version of your README file with improved formatting, clarity, and professionalism:
-
 ---
 
 # Sorting Algorithm Visualizer  
